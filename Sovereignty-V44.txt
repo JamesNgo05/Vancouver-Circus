@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title> The Canucks are Bad </title>
+	<head>
+	<body>
+	<!-- James Ngo -->
+	<style type="text/css">
+	div {
+	width: 600px;
+	padding: 20px;
+	border: 5px solid green;
+	margin: 0px;
+	background-color: #0000FF
+	}
+
+	</style>
+	<font face="Imprint MT shadow">
+
+	<body background="Canucks-bad.jpg">
+
+	<div style="position:fixed;left:350px;">
+	<marquee style="font-size:40px;"scrollamount="10" direction="right"
+	behavior="alternate"><b>The Vancouver Circus</b></marquee>
+	</div>
+	<font face="Imprint MT shadow">
+	<div style=position:fixed;left:350px;top:150px;width:300px;height:200px;">
+	<img src="loui.jpg" width="250" height="250"
+	style="position:fixed;top:150px;right:1050px;">
+	<head><font size="+5"> Bad Contracts </font><Head>
+	<p> Experience horrible contracts such as those of Oliver Ekman-Larsson and Loui Eriksson, signed by GM's who have no idea what they're doing </p>
+	</div>
+	
+	<div style=position:fixed;left:1000px;top:150px;width:300px;height:200px;">
+	<img src="riot.jpg" width="250" height="250"
+	style="position:fixed;top:150px;right:400px;">
+	<head><font size="+5"> Playoff Failure </font><Head>
+	<p> Enjoy the misery of a canucks playoff run capped off with a Game 7 Loss. We promise you will be lighting the streets of the city on fire once you're done </p>
+	</div>
+
+	<div style=position:fixed;left:350px;top:450px;width:300px;height:200px;">
+	<img src="bruce.jpg" width="250" height="250"
+	style="position:fixed;top:450px;right:1050px;">
+	<head><font size="+5"> Staff Mistreatment </font><Head>
+	<p> We only provide the staff the worse treatment possible. We're so kind we even give them a 2 weeks notice before we fire them </p>
+	</div>
+
+	<div style=position:fixed;left:1000px;top:450px;width:300px;height:200px;">
+	<img src="clowns.jpg" width="250" height="250"
+	style="position:fixed;top:450px;right:400px;">
+	<head><font size="+5"> The Clowns </font><Head>
+	<p> Of course, we can't run this circus without our wonderdul clowns at the top. These ones act like the team is competitive and doesn't need a rebuild </p>
+	</div>
